@@ -1,2 +1,5 @@
 <h1>I'Am fizi..</h1>
-<p><img src="fikriaa.jpg"></p>
+<p align=center>
+  <img src="https://github.com/KvnPrdtyaa/KvnPrdtyaa/blob/main/banner.gif"/>
+  <p align=center><i>source: Kimi No Nawa.<i></p>
+</p>
