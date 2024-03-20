@@ -1,6 +1,6 @@
 <h1>I'm fikri azzikri rahman.. from indonesia</h1>
 <p align=center>
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://media.giphy.com/media/PvvSfSDFoAL5e/giphy.gif?cid=ecf05e478zfl17d2i0e14k2ueixjvyybkocivskunf5xiatn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500">
 <br><br>
 </p>
 <!--
